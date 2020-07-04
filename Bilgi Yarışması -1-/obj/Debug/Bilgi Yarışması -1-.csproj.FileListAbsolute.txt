@@ -1,0 +1,7 @@
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\bin\Debug\Bilgi Yarışması -1-.exe.config
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\bin\Debug\Bilgi Yarışması -1-.exe
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\bin\Debug\Bilgi Yarışması -1-.pdb
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\obj\Debug\Bilgi Yarışması -1-.csprojAssemblyReference.cache
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\obj\Debug\Bilgi Yarışması -1-.csproj.CoreCompileInputs.cache
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\obj\Debug\Bilgi Yarışması -1-.exe
+C:\Users\adigu\source\repos\Bilgi Yarışması -1-\Bilgi Yarışması -1-\obj\Debug\Bilgi Yarışması -1-.pdb
